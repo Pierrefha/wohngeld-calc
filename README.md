@@ -1,10 +1,12 @@
 # housing benefit (Wohngeld) calculator
-- can be used to calculate the estimated housing benefit you will be granted.
+- Can be used to calculate the estimated housing benefit you will be granted.
+- Most pages used to calculate housing benefit were terribly annoying. Therefore I decided to write this to calculate the possible amounts.
+- Based on the WoGG(Wohngeldgesetz) got most from here: https://www.sozialgesetzbuch-sgb.de/wogg/1.html
 
 # prerequisites
 - python3 installed
 
-# Quickstart
+# quickstart
 - open calc.py with an editor.
 - adapt these four values at the bottom of the calc.py file:
 ```python
